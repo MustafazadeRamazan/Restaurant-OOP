@@ -1,0 +1,11 @@
+﻿  FinalProject.cpp
+C:\Users\Workm\Desktop\Dersler\FinalProjectOOPC--master\FinalProjectRestoraunt\NameSpaceIngredient.h(30,80): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Workm\Desktop\Dersler\FinalProjectOOPC--master\FinalProjectRestoraunt\NameSpaceIngredient.h(36,84): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Workm\Desktop\Dersler\FinalProjectOOPC--master\FinalProjectRestoraunt\NameSpaceRecipetItem.h(24,92): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Workm\Desktop\Dersler\FinalProjectOOPC--master\FinalProjectRestoraunt\FinalProject.cpp(103,43): warning C4290: C++ exception specification ignored except to indicate a function is not __declspec(nothrow)
+C:\Users\Workm\Desktop\Dersler\FinalProjectOOPC--master\FinalProjectRestoraunt\FinalProject.cpp(358,82): warning C4244: '+=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Workm\Desktop\Dersler\FinalProjectOOPC--master\FinalProjectRestoraunt\FinalProject.cpp(442,100): warning C4244: 'argument': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Workm\Desktop\Dersler\FinalProjectOOPC--master\FinalProjectRestoraunt\FinalProject.cpp(762,82): warning C4244: '-=': conversion from '__int64' to 'int', possible loss of data
+C:\Users\Workm\Desktop\Dersler\FinalProjectOOPC--master\FinalProjectRestoraunt\FinalProject.cpp(737,12): warning C4101: 'money': unreferenced local variable
+C:\Users\Workm\Desktop\Dersler\FinalProjectOOPC--master\FinalProjectRestoraunt\FinalProject.cpp(915,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  FinalProjectRestoraunt.vcxproj -> C:\Users\Workm\Desktop\Dersler\FinalProjectOOPC--master\x64\Debug\FinalProjectRestoraunt.exe
